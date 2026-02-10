@@ -2,7 +2,7 @@
 
 🚀 **Junior Data Scientist | Machine Learning Engineer (Applied) | Statistics Graduate**
 
-<img src="https://github.com/germeengehad/germeengehad/blob/main/WhatsApp%20Image%202026-02-11%20at%2002.42.35.jpeg" width="400"/>
+  <img src="https://github.com/germeengehad/germeengehad/blob/main/WhatsApp%20Image%202026-02-11%20at%2002.42.35.jpeg" width="400"/>
 
 I build **end-to-end machine learning projects** grounded in strong statistical foundations,  
 with a growing focus on **MLOps, reproducibility, and real-world problem solving**.
